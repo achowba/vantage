@@ -1,0 +1,11 @@
+.LinkItem {
+    color: #323232;
+    font-size: 1.1rem;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.LinkItem.active {
+    color: #323232;
+    font-weight: 700;
+}

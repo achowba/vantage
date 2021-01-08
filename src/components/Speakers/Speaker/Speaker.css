@@ -1,0 +1,38 @@
+.Speaker {
+    cursor: pointer;
+    height: 450px;
+    position: relative;
+}
+
+.Speaker-info {
+    background: linear-gradient(0deg, #000000b8, transparent);
+    bottom: 0;
+    color: #ffffff;
+    padding: 30px 0 30px 40px;
+    position: absolute;
+    text-align: left;
+    width: calc(100% - 40px);
+}
+
+.Speaker-name {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin: 0 0 10px 0;
+}
+
+.Speaker-job__wrapper {
+    align-content: center;
+    display: flex;
+}
+
+.Speaker-job__wrapper > p {
+    margin: 0;
+}
+
+.circle {
+    background-color: #ffffff;
+    border-radius: 50%;
+    height: 7px;
+    margin: 10px 7px;
+    width: 7px;
+}

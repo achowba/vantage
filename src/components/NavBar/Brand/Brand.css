@@ -1,0 +1,15 @@
+.Brand {
+    display: flex;
+    text-decoration: none;
+}
+
+.Brand > img {
+    width: 50px;
+}
+
+.Brand > p {
+    color: #323232;
+    font-weight: 700;
+    font-size: 1.3rem;
+    margin-left: 20px;
+}
