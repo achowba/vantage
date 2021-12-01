@@ -1,0 +1,9 @@
+.CTA {
+
+}
+
+@media (max-width: 500px) {
+    .Button {
+        margin-top: 10px;
+    }
+}

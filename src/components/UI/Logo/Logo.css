@@ -1,13 +1,13 @@
-.Brand {
+.Logo {
     display: flex;
     text-decoration: none;
 }
 
-.Brand > img {
+.Logo > img {
     width: 50px;
 }
 
-.Brand > p {
+.Logo > p {
     color: #323232;
     font-weight: 700;
     font-size: 1.3rem;

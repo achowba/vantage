@@ -1,0 +1,18 @@
+.NavBar {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0 50px 0;
+}
+
+@media (max-width: 900px) {
+    .Menu {
+        display: none !important;
+    }
+}
+
+@media (max-width: 500px) {
+    .CTA {
+        display: none !important;
+    }
+}

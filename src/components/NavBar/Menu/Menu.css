@@ -1,9 +1,0 @@
-.Menu {
-    display: flex;
-    justify-content: space-between;
-}
-
-.Menu.Links {
-    display: flex;
-    justify-content: space-between;
-}

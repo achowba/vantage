@@ -1,0 +1,12 @@
+.Links {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+
+@media (max-width: 500px) {
+    .Links {
+        margin-top: 100px;
+        flex-flow: column;
+    }
+}

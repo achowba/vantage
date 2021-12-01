@@ -1,6 +1,6 @@
 .Speaker {
     cursor: pointer;
-    height: 450px;
+    height: 400px;
     position: relative;
 }
 
@@ -35,4 +35,10 @@
     height: 7px;
     margin: 10px 7px;
     width: 7px;
+}
+
+@media (max-width: 500px) {
+    .Speaker {
+        height: 350px;
+    }
 }

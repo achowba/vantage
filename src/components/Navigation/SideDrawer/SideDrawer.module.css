@@ -1,0 +1,33 @@
+.SideDrawer {
+    background-color: #ffffff;
+    display: none;
+    height: 100%;
+    margin: -30px -8% -50px -8%;
+    max-width: 70%;
+    position: fixed;
+    width: 70%;
+    z-index: 10;
+}
+
+.Open {
+    transform: translateX(0);
+}
+
+.Close {
+    transform: translateX(-100%);
+}
+
+.Logo {
+    margin: 40px 40px 20px;
+}
+
+.CTA {
+    margin-top: 40px;
+    text-align: left;
+}
+
+@media (min-width: 500px) {
+    .SideDrawer {
+        display: none;
+    }
+}

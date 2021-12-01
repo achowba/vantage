@@ -7,7 +7,7 @@
     outline: none;
 }
 
-.btn-primary {
+.Primary {
     background-color: #0052cc;
     border-radius: 40px;
     color: white;
@@ -15,7 +15,7 @@
     padding: 15px 20px;
 }
 
-.btn-outline {
+.Outline {
     background: #ffffff;
     border: 1px solid #dedede;
     border-radius: 10px;
